@@ -1,16 +1,18 @@
 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="25" height="25">](https://github.com/Hadishh)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" width="25" height="25">](https://twitter.com/hadishhh) 
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="25" height="25">](https://www.linkedin.com/in/hadi-sheikhi/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="25" height="25">](mailto:hsheikhi@ualberta.ca)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+</br>
+Hi, I'm Hadi.
+I'm a master's student at the University of Alberta, where I conduct research on Large Language Models (LLMs) and cutting-edge Natural Language Processing (NLP) technologies like chatbots. My passion for research drives me to explore the rapidly evolving world of AI and its transformative impact on communication and technology.
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M. Sc., Computer Science, University of Alberta, 2023—2025 (expected).\
+B. Sc., Computer Engineering, Iran University of Science and Technology, 2018-2023
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Natural Language Processing, Artificial Intelligence, Machine Learning, Lexical Semantics, Large Language Models (LLMS), Vision-Language Models, Visual Question Answering (VQA), Natural Langauge Generation (NLG)
 
