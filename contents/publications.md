@@ -1,3 +1,4 @@
+- Jai Riley, Bradley M. Hauer, Nafisa Sadaf Hriti, Guoqing Luo, Amir Reza Mirzaei, Ali Rafiei,<strong> Hadi Sheikhi </strong>, Mahvash Siavashpour, Mohammad Tavakoli, Ning Shi, Grzegorz Kondrak "Semi-Automated Construction of Sense-Annotated Datasets for Practically Any Language" in proceedings of Coling 2025 [[Paper]](https://aclanthology.org/2025.coling-main.419/)
 - Ning Shi, Senyu Li, Guoqing Luo, Amirreza Mirzaei, Ali Rafiei, Jai Riley, <strong> Hadi Sheikhi </strong>, Mahvash Siavashpour, Mohammad Tavakoli, Bradley Hauer, and Grzegorz Kondrak (2024). UAlberta at SemEval-2024 Task 1: A Potpourri of Methods for Quantifying Multilingual Semantic Textual Relatedness and Similarity. <strong> The 18th International Workshop on Semantic Evaluation.
 </strong> [[Paper]](https://aclanthology.org/2024.semeval-1.254/)
 
