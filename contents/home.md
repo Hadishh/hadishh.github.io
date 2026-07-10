@@ -6,16 +6,15 @@
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="25" height="25">](mailto:hsheikhi@ualberta.ca)
 
 Hi, I'm Hadi.
-I'm a master's student at the University of Alberta, where I conduct research on Large Language Models (LLMs) and cutting-edge Natural Language Processing (NLP) technologies like chatbots. My passion for research drives me to explore the rapidly evolving world of AI and its transformative impact on communication and technology.
+I work on Natural Language Processing and Large Language Models, with a focus on knowledge-grounded dialogue, semantic evaluation, lexical semantics, and multimodal language understanding. My research explores how AI systems can generate more faithful, useful, and context-aware language.
 
-</br>
+<br>
 
 #### Education
-M. Sc., Computer Science, University of Alberta, 2023—2025 (expected).\
+M. Sc., Computer Science, University of Alberta, 2023-2025.\
 B. Sc., Computer Engineering, Iran University of Science and Technology, 2018-2023
 
-</br>
+<br>
 
 #### Research Interests
-Natural Language Processing, Artificial Intelligence, Machine Learning, Lexical Semantics, Large Language Models (LLMS), Vision-Language Models, Visual Question Answering (VQA), Natural Langauge Generation (NLG)
-
+Natural Language Processing, Artificial Intelligence, Machine Learning, Large Language Models (LLMs), Knowledge-Grounded Dialogue, Natural Language Generation (NLG), Lexical Semantics, Semantic Evaluation, Vision-Language Models, Visual Question Answering (VQA)
